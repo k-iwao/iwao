@@ -7,7 +7,8 @@
 def print_hi(name):
     # Use a breakpoint in the code line below to debug your script.
     print('aaa');  # Press Ctrl+F8 to toggle the breakpoint.
-    print(("abc"))
+    print(("abc"));
+    print("abe");
 
 
 # Press the green button in the gutter to run the script.
